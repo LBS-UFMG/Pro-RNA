@@ -1,0 +1,42 @@
+ 8 7 | 11
+ID: 2L5D | Size: 139     | Contacts: 11      | Time: 0.8892
+
+ 15 20 | 32
+ID: 2RRA | Size: 105     | Contacts: 32      | Time: 0.1742
+
+ 212 195 | 336
+ID: 2XD0 | Size: 1158    | Contacts: 336     | Time: 3.9068
+
+ 84 96 | 122
+ID: 2XXA | Size: 1594    | Contacts: 122     | Time: 4.7321
+
+ 7 8 | 8
+ID: 3PDM | Size: 165     | Contacts: 8       | Time: 0.3071
+
+ 1251 1457 | 1909
+ID: 3PIP | Size: 5931    | Contacts: 1909    | Time: 79.9177
+
+ 208 231 | 316
+ID: 3PLA | Size: 2300    | Contacts: 316     | Time: 10.0809
+
+ 32 22 | 60
+ID: 3Q1R | Size: 545     | Contacts: 60      | Time: 3.3217
+
+ 28 25 | 41
+ID: 3Q2T | Size: 603     | Contacts: 41      | Time: 1.2155
+
+ 3186 3510 | 5104
+ID: 4V5O | Size: 13726   | Contacts: 5104    | Time: 204.4718
+
+ 4966 5570 | 7756
+ID: 4V5Q | Size: 22324   | Contacts: 7756    | Time: 507.1842
+
+ 3203 3695 | 5415
+ID: 4V6K | Size: 11339   | Contacts: 5415    | Time: 151.1726
+
+ 3641 4381 | 5885
+ID: 4V6L | Size: 11339   | Contacts: 5885    | Time: 162.4139
+
+ 3102 3224 | 4707
+ID: 4V6M | Size: 11892   | Contacts: 4707    | Time: 172.9225
+Total time elapsed: 1302.9457597379987

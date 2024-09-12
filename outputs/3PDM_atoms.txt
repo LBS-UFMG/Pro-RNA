@@ -1,0 +1,16 @@
+L = A-2a and B-119V
+L = A-2a and B-120A
+L = A-2a and B-123K
+L = A-2a and B-127N
+L = A-3a and B-113R
+L = A-3a and B-116D
+L = A-3a and B-117A
+
+A = A-2a and B-116D
+A = A-2a and B-119V
+A = A-2a and B-120A
+A = A-2a and B-123K
+A = A-3a and B-86A
+A = A-3a and B-113R
+A = A-3a and B-116D
+A = A-3a and B-117A

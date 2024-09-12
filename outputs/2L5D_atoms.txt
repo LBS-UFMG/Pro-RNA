@@ -1,0 +1,16 @@
+L = A-312Y and B-505a
+L = A-313N and B-504c
+L = A-315K and B-504c
+L = A-317Y and B-504c
+L = A-346Y and B-505a
+L = A-350Y and B-504c
+L = A-350Y and B-505a
+L = A-381M and B-505a
+
+A = A-312Y and B-505a
+A = A-313N and B-504c
+A = A-315K and B-504c
+A = A-317Y and B-504c
+A = A-345Y and B-505a
+A = A-346Y and B-505a
+A = A-350Y and B-504c

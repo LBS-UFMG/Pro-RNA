@@ -1,0 +1,9 @@
+ID: 3PDM | Size: 165     | Contacts: 8       | Time: 0.3071
+A-2a:O2' and B-119V:O: 3.36 A. Hydrogen_bond
+A-2a:O2' and B-120A:N: 2.82 A. Hydrogen_bond
+A-2a:O4' and B-123K:NZ: 2.68 A. Hydrogen_bond
+A-2a:O2' and B-123K:NZ: 3.5 A. Hydrogen_bond
+A-2a:N1 and B-127N:ND2: 3.8 A. Hydrogen_bond
+A-3a:N7 and B-113R:NH2: 2.95 A. Hydrogen_bond
+A-3a:O2' and B-116D:OD2: 3.05 A. Hydrogen_bond
+A-3a:O4' and B-117A:N: 3.1 A. Hydrogen_bond

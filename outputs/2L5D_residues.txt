@@ -1,0 +1,12 @@
+ID: 2L5D | Size: 139     | Contacts: 11      | Time: 0.8892
+A-312Y:OH and B-505a:OP1: 3.48 A. Hydrogen_bond
+A-313N:OD1 and B-504c:O2': 3.24 A. Hydrogen_bond
+A-313N:ND2 and B-504c:O2': 2.9 A. Hydrogen_bond
+A-315K:NZ and B-504c:OP2: 3.36 A. Hydrogen_bond
+A-317Y:OH and B-504c:OP1: 3.09 A. Hydrogen_bond
+A-346Y:OH and B-505a:OP2: 3.65 A. Hydrogen_bond
+A-346Y:OH and B-505a:O3': 3.57 A. Hydrogen_bond
+A-350Y:OH and B-504c:O3': 3.52 A. Hydrogen_bond
+A-350Y:OH and B-504c:O2': 3.33 A. Hydrogen_bond
+A-350Y:OH and B-505a:OP2: 3.71 A. Hydrogen_bond
+A-381M:N and B-505a:O4': 3.79 A. Hydrogen_bond
