@@ -5,7 +5,7 @@ Supplementary material for the article "A strategy for refining the calculation 
 
 ## Atom types
 
-The following table presents the atom type classifications made by Luna for RNA and the classifications extracted from nApoli for amino acids.
+The following table presents the atom type classifications made by Luna (https://luna.readthedocs.io/en/latest/getting_started.html) for RNA and the classifications extracted from nApoli (https://ieeexplore.ieee.org/document/8606950) for amino acids.
 
 
 <table>
