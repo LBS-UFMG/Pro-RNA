@@ -1,7 +1,18 @@
 # Pro-RNA
  
-Supplementary material for the article "A strategy for refining the calculation of contacts in protein-RNA complexes".
+This repository contains supplementary material for the article "A strategy for refining or calculating contacts in protein-RNA complexes." The files and directories are described below.
 
+●	input_files.txt: contains the PDB IDs of the structures used in the analysis. Some structures used by Puton et al. 2012 are presented as obsolete, for those PDB IDs used are followed by the ID mentioned by Puton et al., in parentheses, such as the following example: 4V5Q (2Y13)
+
+●	number_of_contacts_by_PDB.xlsx: Number or number. The number of contacts obtained by the Pro-RNA atom method, Pro-RNA residue, and presented by Puton et al. 2012 total and by structure.
+
+●	processing_time.txt: shows the processing time for atomic contacts by structure. The file offers PDB ID, sequence size, number of contacts, and execution time.
+
+●	rna_atom_types.csv and rna_atom_types.xlsx: contains the classification tables of two types of atoms present in RNA created by Luna (https://luna.readthedocs.io/en/latest/getting_started.html).
+
+●	outputs/: Contains output files to analyze Pro-RNA atoms and residues.
+
+Note: The scripts used are not available in this repository.
 
 ## Atom types
 
